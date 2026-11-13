@@ -1,0 +1,6 @@
+{
+  "name": "ECOLLANTA — Diseño sustentable con neumáticos reciclados",
+  "description": "Empresa dedicada al diseño, fabricación y comercialización de muebles y artículos recreativos elaborados a partir de neumáticos reciclados. Transformamos lo que otros desechan en nuevas oportunidades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
